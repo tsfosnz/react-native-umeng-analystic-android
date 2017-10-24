@@ -8,3 +8,12 @@ ReactNative SDK
 
 版本号：1.0
 发布日期：2016-12-2
+
+## Installation
+
+```
+npm install -S react-native-umeng-analystic-android
+react-native link react-native-umeng-analystic-android
+```
+
+
