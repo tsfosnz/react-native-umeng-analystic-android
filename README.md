@@ -16,4 +16,6 @@ npm install -S react-native-umeng-analystic-android
 react-native link react-native-umeng-analystic-android
 ```
 
+请参考官方文档使用。
+
 
